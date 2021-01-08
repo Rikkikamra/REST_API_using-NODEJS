@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "express": "^4.16.4",
+    "mongoose": "^5.11.10",
     "yup": "^0.26.10"
   },
   "devDependencies": {
