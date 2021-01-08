@@ -1,5 +1,7 @@
 import foo from './foo';
 
 it('should foo', () => {
-  expect(foo()).toEqual('bar');
+  const val = foo().then(res => {
+    expect(res).toEqual(200);
+  });
 });
