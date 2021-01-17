@@ -1,4 +1,9 @@
-Seed project for the [Syndication exercise](https://gist.github.com/redgeoff/1730aa581f477c9ffd32ac4b698dffd1).
+So this is a simple NODE JS application, which have certain REST APIs.
+It will read data from js files and push them on to a nosql db, using one of the API.
+Then APIs can be used to read, data and update data in the database.
+Following given are the list of APIs with their address.
+
+The code also contains test case code using the jest library. I am very new to testing so the code for that can be definitely improved.
 
 ## Install dependencies
 
